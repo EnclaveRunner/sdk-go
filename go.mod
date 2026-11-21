@@ -1,10 +1,10 @@
 module github.com/EnclaveRunner/sdk-go
 
-go 1.25.8
+go 1.26.0
 
 require (
 	github.com/oapi-codegen/oapi-codegen/v2 v2.6.0
-	github.com/oapi-codegen/runtime v1.3.1
+	github.com/oapi-codegen/runtime v1.9.1
 )
 
 require (
